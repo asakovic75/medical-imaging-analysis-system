@@ -1,0 +1,12 @@
+gradio
+opencv-python
+torch
+torchvision
+numpy
+pandas
+fpdf2
+segmentation-models-pytorch
+pydicom
+huggingface-hub
+pytz
+Pillow
