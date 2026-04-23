@@ -6,7 +6,8 @@ numpy
 pandas
 fpdf2
 segmentation-models-pytorch
+albumentations
 pydicom
-huggingface-hub
-pytz
+matplotlib
+huggingface_hub
 Pillow
