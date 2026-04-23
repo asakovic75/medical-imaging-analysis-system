@@ -22,11 +22,11 @@
 | Интерфейс | Gradio |
 | ИИ-чат | Hugging Face Inference API (Meta-Llama-3-8B-Instruct) |
 
-## 📁 Структура
-medical-imaging-analysis-system/
+## 📁 Структура проекта
 * app.py — главный файл 
 * unified_brain_model.pth — веса обученной нейросети
-* requirements.txt - зависимости
+* MULTI.ipynb — обучение модели
+* requirements.txt — зависимости
 * README.md — документация
 
 
