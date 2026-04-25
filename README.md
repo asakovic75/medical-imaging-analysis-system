@@ -25,6 +25,7 @@
 ## 📁 Структура проекта
 * app.py — главный файл 
 * stroke_model.pth — веса обученной нейросети
+* STROKE_AI_MODEL.ipnb — обучение модели
 * requirements.txt — зависимости
 * README.md — документация
 
